@@ -1,0 +1,22 @@
+:root {
+  --side-space: 80px;
+  --section-space: 200px;
+  --header-height: 98px;
+  --hero-title-size: 100px;
+  --hero-caption-size: 30px;
+  --magazine-title-size: 46px;
+  --article-title-size: 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Pretendard, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
